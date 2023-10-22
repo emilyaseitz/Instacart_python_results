@@ -1,4 +1,4 @@
 # Instacart Shopping Trends
-<img src="https://www.istockphoto.com/photo/shopping-bag-full-of-healthy-food-on-blue-gm1449032425-486340717?phrase=grocery&searchscope=image%2Cfilm" width="100" height="100">" width="100" height="100">
+<img src="https://media.gettyimages.com/id/1273198394/vector/illustration-of-fresh-vegetables-in-shopping-basket-hand-drawn-vector-elements.jpg?s=612x612&w=0&k=20&c=V_TkA_A5rwAF-0sGvSyHPzwLHd00twd9_796oXXgHzk=" width="1000" height="400">
 
 # Objective
